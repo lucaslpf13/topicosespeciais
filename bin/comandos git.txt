@@ -1,0 +1,10 @@
+git --version = verifica a versão do git.
+git nit = inicia um repositorio vazio na pasta atual
+git config --global user.name "Andrei Santos" = Cria usuário do git
+git config --global user.email "andreisantos153@gmail.com" = cria email do usuario do git
+git status = verifica tudo que nao foi salvo no git
+git add . = colocar os arquivos na area de transferencia
+git commit -m "mensagem" = dizer uma mensagem para identificar o commit
+git log = mostra todo o log dos commits realizados
+git remote add origin \linkdorepositorio = vincula a pasta local ao repositorio git
+git push -u origin master = fazer commit pela primeira vez
